@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FraMazza7/FraMazza7/main/cyber-map.png" width="500px" />
+  <img src="https://github.com/FraMazza7/framazza7/blob/main/cyber-map.jpg" width="500px" />
   
   <br/>
   
