@@ -1,32 +1,23 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FraMazza7/FraMazza7/main/cyber-map.png" alt="Global Cyber Threat Map" width="100%" style="border-radius:10px;"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FraMazza7/FraMazza7/main/cyber-map.png" width="500px" />
+  
+  <br/>
+  
+  <h1 style="color:#00FF41; margin-top: -30px;">Cyber Security | Threat Intelligence</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com/?lines=Open+to+Remote+Consultancy;Cyber+Threat+Analyst;Risk+Assessment;Vulnerabilities+Management;Threat+Intel+Expert&font=Fira+Code&center=true&width=600&height=50&color=00FF41&size=24" />
+  
+  <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Cyber%20Security%20%7C%20Threat%20Intelligence&fontSize=30&fontColor=00FF41&animation=fadeIn" />
-</p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.roiners.com"><img alt="Website" src="https://img.shields.io/badge/ROINERS.COM-000000?style=flat-square&logo=google-chrome&logoColor=00FF41"/></a>
+</div>
 
-<p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Threat+Analyst;Geopolitically+Aware+Threat+Intel;Incident+Response+%26+GRC;Python+%26+Bash+Automation;Open+to+Remote+Consultancy&font=Fira+Code&center=true&width=500&height=45&color=00FF41&vCenter=true&pause=1000&size=20" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-    
-  <a href="https://www.roiners.com">
-    <img alt="Website" src="https://img.shields.io/badge/ROINERS.COM-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF41"/>
-  </a>
-</p>
-
-<br/>
 
 ## <img src="https://api.iconify.design/mdi:incognito.svg?color=%23FF3300" width="30" align="center"/> About Me
 
-I am a **Cyber Security Analyst**, serving as consultant for Global Cyber Operations across complex environments. I am currently exploring high-profile, fully remote consultancy engagements where I can leverage my strategic and technical background.
+I am a **Cyber Security & threat Intel Analyst**, serving as consultant for Global Cyber Operations across complex environments. I am currently exploring high-profile, fully remote consultancy engagements where I can leverage my strategic and technical background.
 
 My approach to adversary profiling, risk management, and threat intelligence is heavily informed by a background in **International Relations, law, and economics**, complemented by fluency in four languages. I bridge the gap between deep technical analysis and geopolitical context.
 
@@ -113,15 +104,9 @@ My approach to adversary profiling, risk management, and threat intelligence is 
 ## <img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=%23FF3300" width="30" align="center"/> Operations Telemetry
 
 <p align="center">
-  <a href="https://github.com/FraMazza7">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/FraMazza7?style=for-the-badge&color=000000&labelColor=111111&logoColor=00FF41&label=Followers"/>
-  </a>
-  <a href="https://github.com/FraMazza7">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/FraMazza7?style=for-the-badge&color=000000&labelColor=111111&logoColor=00FF41&label=Total%20Stars"/>
-  </a>
-  <a href="https://github.com/FraMazza7">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=FraMazza7&style=for-the-badge&color=000000&labelColor=111111"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/FraMazza7?style=for-the-badge&logo=github&color=FF3300" />
+  <img src="https://img.shields.io/github/stars/FraMazza7?style=for-the-badge&logo=starship&color=00FF41" />
+  <img src="https://komarev.com/ghpvc/?username=FraMazza7&style=for-the-badge&color=0A66C2" />
 </p>
 
 ---
