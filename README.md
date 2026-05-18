@@ -9,7 +9,7 @@
   
   <br/>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/francesco-mazza-496569139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.roiners.com"><img alt="Website" src="https://img.shields.io/badge/ROINERS.COM-000000?style=flat-square&logo=google-chrome&logoColor=00FF41"/></a>
 </div>
 
@@ -93,7 +93,7 @@ My approach to adversary profiling, risk management, and threat intelligence is 
       <p align="center"><i>Placeholder for future vulnerability analysis and breakdown.</i></p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="#">Ad-hoc Tech Report</a></h3>
+      <h3 align="center"><a href="#">Ad-hoc Intel Report</a></h3>
       <p align="center"><i>Placeholder for upcoming infrastructure or CTI research.</i></p>
     </td>
   </tr>
