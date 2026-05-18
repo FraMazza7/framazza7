@@ -26,7 +26,7 @@
 
 ## <img src="https://api.iconify.design/mdi:incognito.svg?color=%23FF3300" width="30" align="center"/> About Me
 
-I am a **Cyber Security Analyst** based in Barcelona, serving as consultant for Global Cyber Operations across complex environments. I am currently exploring high-profile, fully remote consultancy engagements where I can leverage my strategic and technical background.
+I am a **Cyber Security Analyst**, serving as consultant for Global Cyber Operations across complex environments. I am currently exploring high-profile, fully remote consultancy engagements where I can leverage my strategic and technical background.
 
 My approach to adversary profiling, risk management, and threat intelligence is heavily informed by a background in **International Relations, law, and economics**, complemented by fluency in four languages. I bridge the gap between deep technical analysis and geopolitical context.
 
