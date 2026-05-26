@@ -5,7 +5,7 @@
   
   <h1 style="color:#00FF41; margin-top: -30px;">Cyber Security | Threat Intelligence</h1>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Open+to+Remote+Consultancy;Cyber+Threat+Analyst;Risk+Assessment;Vulnerabilities+Management;Threat+Intel+Expert&font=Fira+Code&center=true&width=600&height=50&color=00FF41&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Risk+Consultancy;Cyber+Threat+Analyst;Risk+Assessment;Vulnerabilities+Management;Attack+Surface+Management;Threat+Intel+Expert&font=Fira+Code&center=true&width=600&height=50&color=00FF41&size=24" />
   
   <br/>
 
@@ -35,8 +35,10 @@ My approach to adversary profiling, risk management, and threat intelligence is 
   <img alt="Bash" src="https://img.shields.io/badge/Bash-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=00FF41">
   <img alt="KQL" src="https://img.shields.io/badge/KQL-000000.svg?style=for-the-badge&logo=microsoft&logoColor=00FF41">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?style=for-the-badge&logo=database&logoColor=00FF41">
-  <img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=java&logoColor=00FF41">
+  <img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=java&logoColor=00FF41"
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=00FF41">
+ <img alt="SIGMA-YARA" src="https://img.shields.io/badge/SIGMA_| YARA_Rules-000000.svg?style=for-the-badge&logo=siem&logoColor=00FF41">
+
 </p>
 
 ### <img src="https://api.iconify.design/mdi:target-account.svg?color=%23FF3300" width="22" align="center"/> Threat Intel & Security Operations
@@ -53,6 +55,8 @@ My approach to adversary profiling, risk management, and threat intelligence is 
 ### <img src="https://api.iconify.design/mdi:bug-outline.svg?color=%23FF3300" width="22" align="center"/> Vulnerability & Data Analysis
 <p>
   <img alt="Qualys" src="https://img.shields.io/badge/Qualys-000000.svg?style=for-the-badge&logo=qualys&logoColor=00FF41">
+  <img alt="DefectDojo" src="https://img.shields.io/badge/DefectDojo-000000.svg?style=for-the-badge&logo=security-scorecard&logoColor=00FF41">
+  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-000000.svg?style=for-the-badge&logo=linux&logoColor=00FF41">
   <img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-000000.svg?style=for-the-badge&logo=bugzilla&logoColor=00FF41">
   <img alt="BitSight" src="https://img.shields.io/badge/BitSight-000000.svg?style=for-the-badge&logo=shield&logoColor=00FF41">
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-000000.svg?style=for-the-badge&logo=burpsuite&logoColor=00FF41">
@@ -73,6 +77,10 @@ My approach to adversary profiling, risk management, and threat intelligence is 
 </p>
 
 <br/>
+
+## <img src="https://api.iconify.design/mdi:account-tie.svg?color=%23FF3300" width="30" align="center"/> My Value Proposition
+
+I help organizations transition from reactive security to **Proactive Risk Intelligence**. I specialize in External Attack Surface Management (EASM) for small/mid-market firms. By leveraging open-source intelligence and automated reconnaissance, I map an organization’s digital footprint to identify vulnerabilities from an attacker’s perspective, providing a prioritized roadmap for risk remediation.
 
 ## <img src="https://api.iconify.design/mdi:folder-lock-open.svg?color=%23FF3300" width="30" align="center"/> CTI Reports & Projects
 
